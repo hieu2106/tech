@@ -1,2 +1,6 @@
 cx
+<<<<<<< HEAD
 vczcd
+=======
+mot tuan tot lanh
+>>>>>>> ec09530546d23b301796299a2cb61f40dd3a1f3b
